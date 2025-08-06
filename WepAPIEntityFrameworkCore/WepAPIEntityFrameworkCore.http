@@ -1,0 +1,6 @@
+@WepAPIEntityFrameworkCore_HostAddress = http://localhost:5143
+
+GET {{WepAPIEntityFrameworkCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
